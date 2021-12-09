@@ -19,19 +19,11 @@ import java.util.Scanner;
             출력 2
 */
 public class Main {
-    public static void main(String[] args) {
-        Main main = new Main();
-        Scanner kb = new Scanner(System.in);
-
-        String str = kb.next();
-        char c = kb.next().charAt(0);
-
-        System.out.println(main.solution(str, c));
-    }
-
     private int solution(String str, char c) {
+        // TODO 문자 카운트
         int answer = 0;
 
+        // TODO 대문자로 바꾸기
         str = str.toUpperCase();
         c = Character.toUpperCase(c);
 
@@ -40,9 +32,27 @@ public class Main {
             if (str.charAt(i) == c) answer++;
         }
         // TODO forEach
-        for (char x : str.toCharArray()) {
+        for (char x : str.toCharArray()) {   // forEach (문자타입 변수 : [배열, 컬렉션프레임워크])
             if (x == c) answer++;
-        }
+        }                                   // String만 넣을 수 없기 때문에
+                                            // 문자열 toCharArray()로 고쳐주기
         return answer;
+    }
+
+    public static void main(String[] args) {
+        // TODO 객체 생성
+        Main T = new Main();
+
+        // TODO 입력 메소드
+        Scanner kb = new Scanner(System.in);
+
+        // TODO 문자열 받기
+        String str = kb.next();
+
+        // TODO 문자 받기
+        char c = kb.next().charAt(0);
+
+        // TODO 솔루션 메소드 객체에 담아 프린트 찍기
+        System.out.println(T.solution(str, c));
     }
 }
