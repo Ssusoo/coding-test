@@ -40,42 +40,33 @@ public class Main {
     }
 
     private char solution(int n, String str) {
-
         // 초기화
         char answer = ' ';
 
-        // HashMap 생성
+        // HashMap 생성(Key, Value)
         HashMap<Character, Integer> map = new HashMap<>();
 
-        // HashMap 조회
-        for(char key : str.toCharArray()) {
-            // x가 없을 때 0을 리턴함. 0일 때 +1해서 key값을 Count 해 줌.
-            // map.put(key, value)
-            map.put(key, map.getOrDefault(x, 0) +1);
+        // HashMap 조회하기
+        for (char key : str.toCharArray()) {
+           map.put(key, map.getOrDefault(key, 0) +1);
         }
 
-        // 특정 Key가 있는지 없는지(True / False)
-        System.out.println(map.containsKey('A'));
-
-        // Key 종류 갯수를 알려줌.
-        System.out.println(map.size());
-
-        // 최대값
+        // 투표 카운트 초기화
         int max = Integer.MIN_VALUE;
 
-        // HashMap 출력(Key 값을 가져올 때 keySet()을 이용함.
+        // HashMap 출력하기
         for (char key : map.keySet()) {
-            // Key 값 출력
-            System.out.println(key);
-            // Value 값을 출력할 때 .get() 이용
+            // Key값과 Value값 출력하기
             System.out.println(key + " " + map.get(key));
 
-            // Value 값 출력 == .get()
+            // 투표 카운트 출력
             if (map.get(key) > max) {
                 max = map.get(key);
                 answer = key;
             }
         }
+
         return answer;
     }
+
 }
