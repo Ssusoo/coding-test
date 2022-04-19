@@ -36,10 +36,10 @@ public class Main {
         // 투표 용지
         String str = kb.next();
 
-        System.out.println(T.solution(n, str));
+        System.out.println(T.solution(str));
     }
 
-    private char solution(int n, String str) {
+    private char solution(String str) {
         // 초기화
         char answer = ' ';
 
