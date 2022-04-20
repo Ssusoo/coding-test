@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 /**
- * 학급 회장(해쉬)
+ * 1th, 학급 회장(해쉬)
  *
  * 설명
  *  학급 회장을 뽑는데 후보로 기호 A, B, C, D, E 후보가 등록했습니다.

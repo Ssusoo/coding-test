@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="" />
+    <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hashmap/_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashmap/_2/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +45,19 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashmap._2.Main" />
+      <module name="coding-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashmap._2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hashmap._1.Main" />
       <module name="coding-test" />
@@ -78,6 +94,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Review" />
         <item itemvalue="Application.Main" />
       </list>
@@ -95,6 +112,7 @@
       <workItem from="1650275292871" duration="826000" />
       <workItem from="1650292437166" duration="207000" />
       <workItem from="1650366463382" duration="3903000" />
+      <workItem from="1650450471714" duration="923000" />
     </task>
     <servers />
   </component>
