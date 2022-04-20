@@ -1,3 +1,5 @@
+package hashmap._1;
+
 import java.util.HashMap;
 import java.util.Scanner;
 
