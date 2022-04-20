@@ -30,7 +30,7 @@ public class Main {
         Scanner kb = new Scanner(System.in);
 
         // 첫 번째 줄
-        String first = kb.next(); 
+        String first = kb.next();
 
         // 두 번째 줄
         String second = kb.next();
@@ -52,7 +52,7 @@ public class Main {
         for (char key : second.toCharArray()) {
             // 키(map.containsKey())가 있는지 값이 있는지 확인하는 함수(map.containsValue())
             if (!map.containsKey(key) || map.get(key) == 0) return "NO";
-                map.put(key, map.get(key) -1);
+            map.put(key, map.get(key) -1);
         }
         return answer;
     }
