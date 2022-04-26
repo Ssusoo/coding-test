@@ -1,5 +1,7 @@
 package hashmap._3;
 
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Scanner;
 
 /**
@@ -23,6 +25,11 @@ import java.util.Scanner;
  *      두 번째 줄 20 12 20 10 23 17 10
  *  출력 예제
  *      3 4 4 3
+ *
+ *  해결
+ *      1) 0-6까지의 배열
+ *      2) 중간에서 시작할 숫자
+ *      3)
  */
 public class Main {
 
@@ -31,11 +38,69 @@ public class Main {
 
         Scanner kb = new Scanner(System.in);
 
+
         int n = kb.nextInt();
         int k = kb.nextInt();
 
-        int[] arr =  
+		int[] arr = new int[n];
+
+		for (int i = 0; i < n; i++) {
+			arr[i] = kb.nextInt();
+	    }
+		
+		for (int x : main.solution(n, k, arr)) System.out.println(x + " ");
     }
+
+	private ArrayList<Integer> solution(int n, int k, int[] arr) {
+
+		ArrayList<Integer> answer = new ArrayList<>();
+
+		HashMap<Integer, Integer> map = new HashMap<>();
+
+		// 4 번째
+		for (int i = 0; i < k-1; i++) {
+			/* [0]20, [1]12 [2]20
+				key : 20 value : 2
+				key : 12 value : 1
+			*/
+			map.put(arr[i], map.getOrDefault(arr[i], 0) +1);
+		}
+
+		// 카운트
+		int lt = 0;
+
+		// rt는 (4-1)3부터 시작, rt < 7 때까지
+		// [0]20, [1]12 [2]20, [3, 여기부터]10, 23, 17, 10
+		for (int rt = k-1; rt < n; rt++) {
+			/*
+				key : arr[3]일 때 value : 1
+			*/
+			map.put(arr[rt], map.getOrDefault(arr[rt], 0) +1);
+
+			// key의 갯수 == map.size()
+			/* arr[3]일 때
+				key : 20 value : 2
+				key : 12 value : 1
+				key : 10 value : 1
+				map.size() == 20, 12, 10 == 3개
+			*/
+			answer.add(map.size());
+
+			/* arr[0]일 때 key는 20 vaule -1하기
+				key : 20 value : 2-1 = 1
+				key : 12 value : 1
+				key : 10 value : 1
+			*/
+			/* lt++이라 =0arr[1]일 때 key는 20 vaule -1하기
+
+			*/
+			map.put(arr[lt], map.get(arr[lt]) -1);
+
+			if (map.get(arr[lt]) == 0) map.remove(arr[lt]);
+			lt++;
+		}
+		return answer;  // 3,
+	}
 }
 
 
