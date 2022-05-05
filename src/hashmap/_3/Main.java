@@ -51,7 +51,7 @@ public class Main {
 		for (int x : main.solution(n, k, arr)) System.out.println(x + " ");
     }
 
-	private ArrayList<Integer> solution(int n, int k, int[] arr) {
+	ArrayList<Integer> solution(int n, int k, int[] arr) {
 
 		ArrayList<Integer> answer = new ArrayList<>();
 
