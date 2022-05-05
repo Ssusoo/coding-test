@@ -51,8 +51,7 @@ public class Main {
 		for (int x : main.solution(n, k, arr)) System.out.println(x + " ");
     }
 
-	ArrayList<Integer> solution(int n, int k, int[] arr) {
-
+	private ArrayList<Integer> solution(int n, int k, int[] arr) {
 		ArrayList<Integer> answer = new ArrayList<>();
 
 		HashMap<Integer, Integer> map = new HashMap<>();
@@ -93,7 +92,7 @@ public class Main {
 			*/
 			/* lt++이라 =0arr[1]일 때 key는 20 vaule -1하기
 
-			*/
+			 */
 			map.put(arr[lt], map.get(arr[lt]) -1);
 
 			if (map.get(arr[lt]) == 0) map.remove(arr[lt]);
@@ -102,15 +101,3 @@ public class Main {
 		return answer;  // 3,
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
