@@ -59,7 +59,6 @@ public class Remind {
         for (char x : str.toCharArray()) {
             if (x == c) answer++;
         }
-
         return answer;
     }
 }
