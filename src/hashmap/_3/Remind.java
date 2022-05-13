@@ -67,7 +67,8 @@ public class Remind {
 
 			map.put(arr[lt], map.get(arr[lt]) -1);
 
-			if (map.get(arr[lt] == 0) map.remove(arr[lt]));
+			if (map.get(arr[lt]) == 0) map.remove(arr[lt]);
+
 			lt++;
 		}
 		return answer;

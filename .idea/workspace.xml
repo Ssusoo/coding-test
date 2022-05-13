@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="" />
+    <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/hashmap/_3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/hashmap/_3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/hashmap/_3/Remind.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/hashmap/_3/Remind.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_1/Review.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hashmap/_3/Remind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashmap/_3/Remind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/_1/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/_1/Remind.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,20 +48,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.Remind (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashmap._2.Main" />
-      <module name="coding-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hashmap._2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Remind (3)">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hashmap._3.Main" />
       <module name="coding-test" />
@@ -94,6 +88,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Remind (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string._1.Remind" />
+      <module name="coding-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string._1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Remind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hashmap._1.Remind" />
       <module name="coding-test" />
@@ -109,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Remind (3)" />
         <item itemvalue="Application.Remind (2)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Remind (1)" />
         <item itemvalue="Application.Remind" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +150,7 @@
       <workItem from="1651758524922" duration="3170000" />
       <workItem from="1651824824973" duration="22000" />
       <workItem from="1652190657078" duration="64000" />
+      <workItem from="1652438558271" duration="1459000" />
     </task>
     <servers />
   </component>
