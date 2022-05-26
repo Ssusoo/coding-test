@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/string/_2/Remind.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_1/Remind.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/string/_1/Remind.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +145,8 @@
       <workItem from="1651758524922" duration="3170000" />
       <workItem from="1651824824973" duration="22000" />
       <workItem from="1652190657078" duration="64000" />
-      <workItem from="1652438558271" duration="4263000" />
+      <workItem from="1652438558271" duration="5048000" />
+      <workItem from="1652971428369" duration="6000" />
     </task>
     <servers />
   </component>
