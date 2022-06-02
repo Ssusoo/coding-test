@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/string/_3/IndexOfSubStringMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/_3/IndexOfSubStringMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/_2/UpperLowerCaseMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/_2/Remind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/_2/UpperLowerCaseRemind.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,19 +84,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remind (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._2.Remind" />
-      <module name="coding-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string._2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SplitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string._3.SplitMain" />
       <module name="coding-test" />
@@ -109,11 +97,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UpperLowerCaseRemind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string._2.UpperLowerCaseRemind" />
+      <module name="coding-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string._2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.IndexOfSubStringMain" />
         <item itemvalue="Application.SplitMain" />
-        <item itemvalue="Application.Remind (4)" />
+        <item itemvalue="Application.UpperLowerCaseRemind" />
         <item itemvalue="Application.Remind (3)" />
         <item itemvalue="Application.Remind (2)" />
       </list>
@@ -151,6 +152,7 @@
       <workItem from="1652190657078" duration="64000" />
       <workItem from="1652438558271" duration="5048000" />
       <workItem from="1652971428369" duration="6000" />
+      <workItem from="1654181916646" duration="243000" />
     </task>
     <servers />
   </component>

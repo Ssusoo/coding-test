@@ -17,7 +17,7 @@ import java.util.Scanner;
  *          5-3) 조건문(if 소문자일 경우 대문자로 바꾸고 else 대문자일 경우 소문자로 바꾸기)
  *          5-4) forEach을 돌린 후 마지막에 답변 카운트를 return하기
  */
-public class Remind {
+public class UpperLowerCaseRemind {
 
 	public static void main(String[] args) {
 		// 1) 입력 Scanner 객체 만들기
@@ -27,7 +27,7 @@ public class Remind {
 		String str = kb.next();
 
 		// 3) 입력 받을 해당 객체 만들기
-		Remind remind = new Remind();
+		UpperLowerCaseRemind remind = new UpperLowerCaseRemind();
 
 		// 4) 로직 처리할 객체의 메소드 만들기
 		System.out.println(remind.solution(str));

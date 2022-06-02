@@ -15,7 +15,7 @@ import java.util.Scanner;
  *
  *      예시 Study / sTUDY
  */
-public class Main {
+public class UpperLowerCaseMain {
     private String solution(String str) {
         String answer = "";
 
@@ -29,7 +29,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        Main T = new Main();
+        UpperLowerCaseMain T = new UpperLowerCaseMain();
 
         Scanner kb = new Scanner(System.in);
         String str = kb.next();
