@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * 4th, 단어 뒤집기(StringBuilder.reverse.toString)
+ * 4-1th, 단어 뒤집기(StringBuilder.reverse.toString)
  *  1. 설명
  *      N개의 단어가 주어지면 각 단어를 뒤집어 출력하는 프로그램
  *  2. 입력
