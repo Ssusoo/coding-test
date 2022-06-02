@@ -24,10 +24,10 @@ import java.util.Scanner;
                 6-4)-1. 조건문으로 x == 문자가 같으면 답변 카운트 한 개씩 올리기
             6-5) forEach을 돌린 후 마지막에 답변 카운트를 return하기
 */
-public class Remind {
+public class CharArrayRemind {
 
     public static void main(String[] args) {
-        Remind T = new Remind();
+        CharArrayRemind T = new CharArrayRemind();
 
         Scanner scanner = new Scanner(System.in);
 

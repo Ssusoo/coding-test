@@ -3,7 +3,7 @@ package string._1;
 import java.util.Scanner;
 
 /**
-    1. 문자찾기
+    1th, 문자찾기
         한 개의 문자열을 입력받고, 특정 문자를 입력받아 해당 특정문자가 입력받은 문자열에 몇 개 존재하는지
         알아내는 프로그램을 작성하기. 대소문자를 구분하지 않음. 문자열의 길이는 100을 넘지 않음.
 
@@ -18,7 +18,7 @@ import java.util.Scanner;
 
             출력 2
 */
-public class Main {
+public class CharArrayMain {
     private int solution(String str, char c) {
         // TODO 문자 카운트
         int answer = 0;
@@ -41,7 +41,7 @@ public class Main {
 
     public static void main(String[] args) {
         // TODO 객체 생성
-        Main T = new Main();
+        CharArrayMain T = new CharArrayMain();
 
         // TODO 입력 메소드
         Scanner kb = new Scanner(System.in);

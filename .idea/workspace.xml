@@ -45,6 +45,19 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager" selected="Application.IndexOfSubStringMain">
+    <configuration name="CharArrayRemind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string._1.CharArrayRemind" />
+      <module name="coding-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string._1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IndexOfSubStringMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string._3.IndexOfSubStringMain" />
       <module name="coding-test" />
@@ -64,19 +77,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hashmap._3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Remind (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._1.Remind" />
-      <module name="coding-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string._1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,7 +115,7 @@
         <item itemvalue="Application.IndexOfSubStringMain" />
         <item itemvalue="Application.SplitMain" />
         <item itemvalue="Application.UpperLowerCaseRemind" />
-        <item itemvalue="Application.Remind (3)" />
+        <item itemvalue="Application.CharArrayRemind" />
         <item itemvalue="Application.Remind (2)" />
       </list>
     </recent_temporary>
