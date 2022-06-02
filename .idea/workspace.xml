@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/string/_3/IndexOfSubStringMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/_3/SplitMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/_3/SplitMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/_3/IndexOfSubStringMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/_3/IndexOfSubStringMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +43,13 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.SplitMain">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashmap._3.Main" />
+  <component name="RunManager" selected="Application.IndexOfSubStringMain">
+    <configuration name="IndexOfSubStringMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string._3.IndexOfSubStringMain" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashmap._3.*" />
+          <option name="PATTERN" value="string._3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IndexOfSubStringMain" />
         <item itemvalue="Application.SplitMain" />
         <item itemvalue="Application.Remind (4)" />
         <item itemvalue="Application.Remind (3)" />
         <item itemvalue="Application.Remind (2)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
