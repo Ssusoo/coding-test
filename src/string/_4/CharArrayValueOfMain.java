@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * 4-2th 특정 단어로 뒤집기
+ * 4-2th 특정 단어로 뒤집기(CharArrayValueOf)
  *  1. 해결방법(로직 메소드 부분부
  *      1-1) 단어 뒤집기(단어 탐색)
  *          1-1)-1. Char 문자 배열화 시키기
