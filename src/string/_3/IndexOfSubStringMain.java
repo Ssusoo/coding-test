@@ -3,7 +3,7 @@ package string._3;
 import java.util.Scanner;
 
 /**
- * 3th, 문장 속 단어(Index & SubString)
+ * 3-2th, 문장 속 단어(Index & SubString)
  *  1. 예시 입력 : it is time to study, 예시 출력 : study
  *
  *  2. 해결방법(로직 구현 부분부터)
