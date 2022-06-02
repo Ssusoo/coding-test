@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/string/_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/_3/IndexOfSubStringMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_1/Remind.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/string/_1/Remind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/string/_2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_2/Remind.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/string/_2/Remind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/_1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/_1/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/_1/Review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/_3/SplitMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/_3/SplitMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
