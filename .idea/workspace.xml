@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/string/_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/_2/UpperLowerCaseMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/_2/Remind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/_2/UpperLowerCaseRemind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/_4/StringBuilderReverseToStringMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.IndexOfSubStringMain">
+  <component name="RunManager" selected="Application.StringBuilderReverseToStringMain">
     <configuration name="CharArrayRemind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string._1.CharArrayRemind" />
       <module name="coding-test" />
@@ -71,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remind (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashmap._3.Remind" />
+    <configuration name="SplitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string._3.SplitMain" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashmap._3.*" />
+          <option name="PATTERN" value="string._3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._3.SplitMain" />
+    <configuration name="StringBuilderReverseToStringMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string._4.StringBuilderReverseToStringMain" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string._3.*" />
+          <option name="PATTERN" value="string._4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBuilderReverseToStringMain" />
         <item itemvalue="Application.IndexOfSubStringMain" />
         <item itemvalue="Application.SplitMain" />
         <item itemvalue="Application.UpperLowerCaseRemind" />
         <item itemvalue="Application.CharArrayRemind" />
-        <item itemvalue="Application.Remind (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +152,7 @@
       <workItem from="1652190657078" duration="64000" />
       <workItem from="1652438558271" duration="5048000" />
       <workItem from="1652971428369" duration="6000" />
-      <workItem from="1654181916646" duration="243000" />
+      <workItem from="1654181916646" duration="2204000" />
     </task>
     <servers />
   </component>
