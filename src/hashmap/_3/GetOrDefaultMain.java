@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 /**
- * 매출액의 종류
+ * 3th, 매출액의 종류(getOrDefault)
  *  현수의 아빠는 현수에게 N일 동안의 매출기록을 주고
  *  연속된 K일 동안의 매출액의 종류를 구간별로 구하라고 했음.
  *
@@ -16,20 +16,21 @@ import java.util.Scanner;
  *  N일 간의 매출 기록과 연속구간의 길이 K가 주어지면 첫 번째 구간부터
  *  각 구간별 매출액의 종류를 출력하는 프로그램
  *
- *  입력설명
- *      첫 줄에 N과 K가 각각 주어짐.
- *      두 번쨰 줄에 N개의 숫자열이 주어짐.
+ * 1. 입력설명
+ *  첫 줄에 N과 K가 각각 주어짐.
+ *  두 번쨰 줄에 N개의 숫자열이 주어짐.
  *
- *  입력예제
- *      첫 번째 줄 7과 4
- *      두 번째 줄 20 12 20 10 23 17 10
- *  출력 예제
- *      3 4 4 3
+ * 2. 입력예제
+ *  첫 번째 줄 7과 4
+ *  두 번째 줄 20 12 20 10 23 17 10
+ *
+ * 3. 출력 예제
+ *  3 4 4 3
  */
-public class Main {
+public class GetOrDefaultMain {
 
     public static void main(String[] args) {
-        Main main = new Main();
+        GetOrDefaultMain main = new GetOrDefaultMain();
 
         Scanner kb = new Scanner(System.in);
 
