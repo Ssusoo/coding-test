@@ -4,10 +4,15 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 /**
- * 예시 입력                                       예시 출력
+ * 1th, 학급 회장(ToCharArrayGetOrDefault)
+ *
+ * 1. 예시 입력                                       예시 출력
  *  반 학생수 : 15
  *  선생님 발표한 순서 : BACBACCACCBDEDE(15)             c
- *
+ */
+
+/**
+ * 1. 해결방법
  *  1) 투표 입력값을 받는다.
  *  2) HashMap으로 각각의 문자를 key 값으로 두고 key값에 해당하는 Value를
  *      Integer로 받는다.
@@ -18,10 +23,10 @@ import java.util.Scanner;
  *  5) value 값에 대해 조건을 걸어 누적회사 높은 최대값을 처리
  *  6) 카운트 값을 리턴한다.
  */
-public class Main {
+public class ToCharArrayGetOrDefaultMain {
 
     public static void main(String[] args) {
-        Main T = new Main();
+        ToCharArrayGetOrDefaultMain T = new ToCharArrayGetOrDefaultMain();
 
         Scanner kb = new Scanner(System.in);
 

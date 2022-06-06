@@ -8,10 +8,10 @@ import java.util.Scanner;
  *  반 학생수 : 15
  *  선생님 발표한 순서 : BACBACCACCBDEDE(15)             c
  */
-public class Remind {
+public class ToCharArrayGetOrDefaultRemind {
 
     public static void main(String[] args) {
-        Remind T = new Remind();
+        ToCharArrayGetOrDefaultRemind T = new ToCharArrayGetOrDefaultRemind();
 
         Scanner kb = new Scanner(System.in);
 
