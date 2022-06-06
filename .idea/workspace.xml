@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/string/_7/UpperCaseLengthMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/_7/StringBuilderEqualsIgnoreCaseMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.UpperCaseLengthMain">
+  <component name="RunManager" selected="Application.StringBuilderEqualsIgnoreCaseMain">
     <configuration name="IndexOfMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string._6.IndexOfMain" />
       <module name="coding-test" />
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._3.SplitMain" />
+    <configuration name="StringBuilderEqualsIgnoreCaseMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string._7.StringBuilderEqualsIgnoreCaseMain" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string._3.*" />
+          <option name="PATTERN" value="string._7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBuilderEqualsIgnoreCaseMain" />
         <item itemvalue="Application.UpperCaseLengthMain" />
         <item itemvalue="Application.IndexOfMain" />
         <item itemvalue="Application.StringBuilderReverseToStringMain" />
         <item itemvalue="Application.IndexOfSubStringMain" />
-        <item itemvalue="Application.SplitMain" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +163,7 @@
       <workItem from="1652971428369" duration="6000" />
       <workItem from="1654181916646" duration="2204000" />
       <workItem from="1654437776445" duration="935000" />
-      <workItem from="1654521918510" duration="1753000" />
+      <workItem from="1654521918510" duration="2544000" />
     </task>
     <servers />
   </component>
