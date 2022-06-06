@@ -4,13 +4,9 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 /**
- * 예시 입력-1(출력 YES)
- * AbaAeCe
- * baeeACA
- */
-
-/**
- * 해결 방법
+ * 예시 입력 AbaAeCe baeeACA 예시 출력 YES
+ *
+ * 1. 해결 방법
  *  1) 객체 생성
  *  2) 문자열을 두 번 입력받는다.
  *  3) 아나그램을 해결할 메소드를 생성한다.
@@ -22,9 +18,9 @@ import java.util.Scanner;
  *      조건문으로 key 값이 없거나 value값이 0일 때 아나그램이 성립(같이 다르기 때문에)이 안 되기 때문에
  *      그때는 NO를 리턴해야 된다.
  */
-public class Remind {
+public class ToCharArrayRemind {
     public static void main(String[] args) {
-        Remind remind = new Remind();
+        ToCharArrayRemind remind = new ToCharArrayRemind();
 
         Scanner kb = new Scanner(System.in);
 

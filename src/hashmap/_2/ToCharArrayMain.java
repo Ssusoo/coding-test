@@ -4,28 +4,22 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 /**
- * 2th, 아나그램(해쉬)
+ * 2th, 아나그램(toCharArray())
  *
- *  설명
- *      아나그램이란 두 문자열이 알파벳의 나열 순서를 다르지만 그 구성이 일치하면
- *      두 단어는 아나그램이라고 함. 예를 들면 AbaAeCe와 baeeACA는 알파벳 순서는 다르지만
- *      그 구성을 살펴보면 A(2), a(1), b(1), C(1), e(2)로
- *      알파벳과 그 개수가 모두 일치함. 즉 어느 한 단어를 재 배열하면 상대편 단어가 될 수 있는 것을 아나그램이라고 함.
+ * 1. 설명
+ *  아나그램이란 두 문자열이 알파벳의 나열 순서를 다르지만 그 구성이 일치하면
+ *  두 단어는 아나그램이라고 함. 예를 들면 AbaAeCe와 baeeACA는 알파벳 순서는 다르지만
+ *  그 구성을 살펴보면 A(2), a(1), b(1), C(1), e(2)로
+ *  알파벳과 그 개수가 모두 일치함. 즉 어느 한 단어를 재 배열하면 상대편 단어가 될 수 있는 것을 아나그램이라고 함.
  *
- *  입력
- *      첫 번째 줄에 첫 번째 단어가 입력되고
- *      두 번째 줄에 단어가 입력됨.
+ * 2. 출력
+ *  두 단어가 아나그램이면 YES, 아니면 NO를 출력함.
  *
- *  출력
- *      두 단어가 아나그램이면 YES, 아니면 NO를 출력함.
- *
- *  예시 입력-1(출력 YES)
- *      AbaAeCe
- *      baeeACA
+ * 3. 예시 입력 AbaAeCe baeeACA 예시 출력 YES
  */
-public class Main {
+public class ToCharArrayMain {
     public static void main(String[] args) {
-        Main T = new Main();
+        ToCharArrayMain T = new ToCharArrayMain();
 
         Scanner kb = new Scanner(System.in);
 
