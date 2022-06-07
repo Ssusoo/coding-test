@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/string/_9/CharIntegerASCIIMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/_9/IsDigitParseIntMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_9/CharIntegerMain.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.CharIntegerASCIIMain">
+  <component name="RunManager">
     <configuration name="CharIntegerASCIIMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string._9.CharIntegerASCIIMain" />
       <module name="coding-test" />
@@ -67,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IndexOfMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._6.IndexOfMain" />
+    <configuration name="IsDigitParseIntMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string._9.IsDigitParseIntMain" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string._6.*" />
+          <option name="PATTERN" value="string._9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsDigitParseIntMain" />
         <item itemvalue="Application.CharIntegerASCIIMain" />
         <item itemvalue="Application.ReplaceAllStringBuilderMain" />
         <item itemvalue="Application.StringBuilderEqualsIgnoreCaseMain" />
         <item itemvalue="Application.UpperCaseLengthMain" />
-        <item itemvalue="Application.IndexOfMain" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +178,7 @@
       <workItem from="1654181916646" duration="2204000" />
       <workItem from="1654437776445" duration="935000" />
       <workItem from="1654521918510" duration="3790000" />
+      <workItem from="1654613388296" duration="556000" />
     </task>
     <servers />
   </component>
