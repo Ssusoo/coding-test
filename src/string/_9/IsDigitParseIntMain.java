@@ -34,7 +34,7 @@ public class IsDigitParseIntMain {
 		// 1-2) for문으로 문자열의 문자를 하나씩 읽기
 		for (char x : str.toCharArray()) {
 			// 1-3) 문자의 문자를 검증하기
-			if (Character.isDigit(x)) answer+=x; // 0208
+			if (Character.isDigit(x)) answer += x; // 0208
 		}
 
 		// 1-4) 0208 -> 208로 출력하기
