@@ -6,6 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/hashmap/_1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/hashmap/_1/Remind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/hashmap/_2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/hashmap/_2/Remind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/hashmap/_3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/hashmap/_3/Remind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_7/StringBuilderEqualsIgnoreCaseMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/string/_7/StringBuilderEqualsIgnoreCaseMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/_8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/_8/ReplaceAllStringBuilderMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,33 +60,16 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-<<<<<<< Updated upstream
-  <component name="RunManager" selected="Application.StringBuilderEqualsIgnoreCaseMain">
+  <component name="RunManager" selected="Application.ReplaceAllStringBuilderMain">
     <configuration name="IndexOfMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string._6.IndexOfMain" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="string._6.*" />
-=======
-  <component name="RunManager" selected="Application.Remind (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashmap._2.Main" />
-      <module name="coding-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hashmap._2.*" />
->>>>>>> Stashed changes
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashmap._1.Main" />
-      <module name="coding-test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,28 +80,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="string._1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-<<<<<<< Updated upstream
-    <configuration name="StringBuilderEqualsIgnoreCaseMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._7.StringBuilderEqualsIgnoreCaseMain" />
-      <module name="coding-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string._7.*" />
-=======
-    <configuration name="Remind (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashmap._2.Remind" />
-      <module name="coding-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hashmap._2.*" />
->>>>>>> Stashed changes
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,21 +100,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< Updated upstream
+    <configuration name="ReplaceAllStringBuilderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string._8.ReplaceAllStringBuilderMain" />
+      <module name="coding-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string._8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuilderEqualsIgnoreCaseMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string._7.StringBuilderEqualsIgnoreCaseMain" />
+      <module name="coding-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string._7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UpperCaseLengthMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string._7.UpperCaseLengthMain" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="string._7.*" />
-=======
-    <configuration name="Review" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._1.Review" />
-      <module name="coding-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string._1.*" />
->>>>>>> Stashed changes
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,19 +141,10 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< Updated upstream
+        <item itemvalue="Application.ReplaceAllStringBuilderMain" />
         <item itemvalue="Application.StringBuilderEqualsIgnoreCaseMain" />
         <item itemvalue="Application.UpperCaseLengthMain" />
         <item itemvalue="Application.IndexOfMain" />
-        <item itemvalue="Application.StringBuilderReverseToStringMain" />
-        <item itemvalue="Application.IndexOfSubStringMain" />
-=======
-        <item itemvalue="Application.Remind (1)" />
-        <item itemvalue="Application.Remind" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Review" />
->>>>>>> Stashed changes
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +167,6 @@
       <workItem from="1650583461299" duration="1051000" />
       <workItem from="1650692659642" duration="2000" />
       <workItem from="1652971821686" duration="2000" />
-<<<<<<< Updated upstream
       <workItem from="1654163003975" duration="805000" />
       <workItem from="1650583461299" duration="923000" />
       <workItem from="1650692674155" duration="831000" />
@@ -207,9 +183,6 @@
       <workItem from="1654181916646" duration="2204000" />
       <workItem from="1654437776445" duration="935000" />
       <workItem from="1654521918510" duration="3790000" />
-=======
-      <workItem from="1654181903678" duration="8000" />
->>>>>>> Stashed changes
     </task>
     <servers />
   </component>
