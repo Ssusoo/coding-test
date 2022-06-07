@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/string/_9/CharIntegerASCIIMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_8/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/_8/ReplaceAllStringBuilderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/_8/ReplaceAllStringBuilderMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,20 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.ReplaceAllStringBuilderMain">
+  <component name="RunManager" selected="Application.CharIntegerASCIIMain">
+    <configuration name="CharIntegerASCIIMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string._9.CharIntegerASCIIMain" />
+      <module name="coding-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string._9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IndexOfMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string._6.IndexOfMain" />
       <module name="coding-test" />
@@ -74,19 +86,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="string._1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Remind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashmap._1.Remind" />
-      <module name="coding-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hashmap._1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,6 +134,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CharIntegerASCIIMain" />
         <item itemvalue="Application.ReplaceAllStringBuilderMain" />
         <item itemvalue="Application.StringBuilderEqualsIgnoreCaseMain" />
         <item itemvalue="Application.UpperCaseLengthMain" />
