@@ -13,7 +13,7 @@ import java.util.Scanner;
  * 2. 출력
  *  첫 번째 줄에 펠린드롬인지의결과를 YES 또는 NO를 출력함.
  *
- * 3. 예시 입력 : found7, time; study; Yduts; 예시 출력 YES
+ * 3. 예시 입력 : found7, time; study; yduts; emit, 7Dnuof 예시 출력 YES
  */
 
 /**
@@ -49,6 +49,7 @@ public class ReplaceAllStringBuilderMain {
 
 		// 1-4) 조건문 Equals를 통해 두 문자를 비교 후 YES 처리하기
 		if (str.equals(tmp)) answer = "YES";
+
 
 		return answer;
 	}
