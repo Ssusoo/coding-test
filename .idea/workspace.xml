@@ -6,14 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/hashmap/_1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/hashmap/_1/Remind.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/hashmap/_2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/hashmap/_2/Remind.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/hashmap/_3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/hashmap/_3/Remind.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_7/StringBuilderEqualsIgnoreCaseMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/string/_7/StringBuilderEqualsIgnoreCaseMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/_8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/_8/ReplaceAllStringBuilderMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/_8/ReplaceAllStringBuilderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/_8/ReplaceAllStringBuilderMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

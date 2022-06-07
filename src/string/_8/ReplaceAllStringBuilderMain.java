@@ -1,5 +1,7 @@
 package string._8;
 
+import java.util.Scanner;
+
 /**
  * 8th, 펠린드롬(replaceAll & StringBuilder)
  * 1. 설명
@@ -14,8 +16,6 @@ package string._8;
  * 3. 예시 입력 : found7, time; study; Yduts; 예시 출력 YES
  */
 
-import java.util.Scanner;
-
 /**
  *  1. 해결방법
  *      1-1) 알파멧을 뺀 나머지를 없애기 위해 replaceAll 쓰기
@@ -25,6 +25,7 @@ import java.util.Scanner;
  * 	    1-3) StringBuilder를 써서 reserve 뒤집기하기
  * 	    1-4) 조건문 Equals를 통해 두 문자를 비교 후 YES 처리하기
  */
+
 public class ReplaceAllStringBuilderMain {
 	public static void main(String[] args) {
 		Scanner kb = new Scanner(System.in);
