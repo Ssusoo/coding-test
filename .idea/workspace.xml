@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/string/_10/MathMinMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/_11/StringValueOfOrIntegerToStringMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_9/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_10/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.MathMinMain">
+  <component name="RunManager" selected="Application.StringValueOfOrIntegerToStringMain">
     <configuration name="CharIntegerASCIIMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string._9.CharIntegerASCIIMain" />
       <module name="coding-test" />
@@ -107,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderEqualsIgnoreCaseMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._7.StringBuilderEqualsIgnoreCaseMain" />
+    <configuration name="StringValueOfOrIntegerToStringMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string._11.StringValueOfOrIntegerToStringMain" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string._7.*" />
+          <option name="PATTERN" value="string._11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringValueOfOrIntegerToStringMain" />
         <item itemvalue="Application.MathMinMain" />
         <item itemvalue="Application.CharIntegerASCIIMain" />
         <item itemvalue="Application.IsDigitParseIntMain" />
         <item itemvalue="Application.ReplaceAllStringBuilderMain" />
-        <item itemvalue="Application.StringBuilderEqualsIgnoreCaseMain" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +167,7 @@
       <workItem from="1654521918510" duration="3790000" />
       <workItem from="1654613388296" duration="785000" />
       <workItem from="1654650692367" duration="135000" />
-      <workItem from="1654683492453" duration="3184000" />
+      <workItem from="1654683492453" duration="5674000" />
     </task>
     <servers />
   </component>
