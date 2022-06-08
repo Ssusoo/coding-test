@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/string/_11/StringValueOfOrIntegerToStringMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_10/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/_1/CharArrayMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/_1/CharArrayMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/_2/UpperLowerCaseMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/_2/UpperLowerCaseMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.ToCharArrayToUpperCase">
+  <component name="RunManager" selected="Application.IsToUpperLowerCase">
     <configuration name="CharIntegerASCIIMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string._9.CharIntegerASCIIMain" />
       <module name="coding-test" />
@@ -69,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsDigitParseIntMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._9.IsDigitParseIntMain" />
+    <configuration name="IsToUpperLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string._2.IsToUpperLowerCase" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string._9.*" />
+          <option name="PATTERN" value="string._2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsToUpperLowerCase" />
         <item itemvalue="Application.ToCharArrayToUpperCase" />
         <item itemvalue="Application.StringValueOfOrIntegerToStringMain" />
         <item itemvalue="Application.MathMinMain" />
         <item itemvalue="Application.CharIntegerASCIIMain" />
-        <item itemvalue="Application.IsDigitParseIntMain" />
       </list>
     </recent_temporary>
   </component>
