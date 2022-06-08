@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/string/_9/IsDigitParseIntMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/_10/MathMinMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_9/CharIntegerMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_9/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MathMinMain">
     <configuration name="CharIntegerASCIIMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string._9.CharIntegerASCIIMain" />
       <module name="coding-test" />
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._1.Main" />
+    <configuration name="MathMinMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string._10.MathMinMain" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string._1.*" />
+          <option name="PATTERN" value="string._10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,26 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UpperCaseLengthMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._7.UpperCaseLengthMain" />
-      <module name="coding-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string._7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IsDigitParseIntMain" />
+        <item itemvalue="Application.MathMinMain" />
         <item itemvalue="Application.CharIntegerASCIIMain" />
+        <item itemvalue="Application.IsDigitParseIntMain" />
         <item itemvalue="Application.ReplaceAllStringBuilderMain" />
         <item itemvalue="Application.StringBuilderEqualsIgnoreCaseMain" />
-        <item itemvalue="Application.UpperCaseLengthMain" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +165,9 @@
       <workItem from="1654181916646" duration="2204000" />
       <workItem from="1654437776445" duration="935000" />
       <workItem from="1654521918510" duration="3790000" />
-      <workItem from="1654613388296" duration="556000" />
+      <workItem from="1654613388296" duration="785000" />
+      <workItem from="1654650692367" duration="135000" />
+      <workItem from="1654683492453" duration="3184000" />
     </task>
     <servers />
   </component>
