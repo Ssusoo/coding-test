@@ -1,4 +1,4 @@
-package string._6;
+package _1.string._6;
 
 import java.util.Scanner;
 

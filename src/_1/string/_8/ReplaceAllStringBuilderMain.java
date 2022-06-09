@@ -1,4 +1,4 @@
-package string._8;
+package _1.string._8;
 
 import java.util.Scanner;
 
