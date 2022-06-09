@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/string/_12/ReplaceParseIntChar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_2/UpperLowerCaseMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/_3/SplitMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/_3/SplitIntegerMinValue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.SplitIntegerMinValue">
+  <component name="RunManager" selected="Application.ReplaceParseIntTypeCastingChar">
     <configuration name="IsToUpperLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string._2.IsToUpperLowerCase" />
       <module name="coding-test" />
@@ -68,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathMinMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._10.MathMinMain" />
+    <configuration name="ReplaceParseIntTypeCastingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string._12.ReplaceParseIntTypeCastingChar" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string._10.*" />
+          <option name="PATTERN" value="string._12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReplaceParseIntTypeCastingChar" />
         <item itemvalue="Application.SplitIntegerMinValue" />
         <item itemvalue="Application.IsToUpperLowerCase" />
         <item itemvalue="Application.ToCharArrayToUpperCase" />
         <item itemvalue="Application.StringValueOfOrIntegerToStringMain" />
-        <item itemvalue="Application.MathMinMain" />
       </list>
     </recent_temporary>
   </component>
@@ -169,6 +168,8 @@
       <workItem from="1654650692367" duration="135000" />
       <workItem from="1654683492453" duration="6269000" />
       <workItem from="1654737678786" duration="12000" />
+      <workItem from="1654770472157" duration="328000" />
+      <workItem from="1654771086270" duration="4319000" />
     </task>
     <servers />
   </component>
