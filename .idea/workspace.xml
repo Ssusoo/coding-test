@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_2/array/_2/NotMaxValueAccumulate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2/array/_3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/array/_1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_1/ToCharArrayToUpperCase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_10/MathMinMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_11/StringValueOfOrIntegerToStringMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_12/ReplaceParseIntTypeCastingChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_2/IsToUpperLowerCase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_3/IndexOfSubStringMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_3/SplitIntegerMinValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_4/CharArrayValueOfMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_4/StringBuilderReverseToStringMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_6/IndexOfMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_7/StringBuilderEqualsIgnoreCaseMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_7/UpperCaseLengthMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_8/ReplaceAllStringBuilderMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_9/CharIntegerASCIIMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_9/IsDigitParseIntMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_2/array/_1/ArrayListForEachPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2/array/_1/ArrayListForEachPoint.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
