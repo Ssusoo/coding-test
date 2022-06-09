@@ -5,9 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_2/array/_1/ArrayListForEachPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2/array/_2/NotMaxValueAccumulate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/array/_1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_1/ToCharArrayToUpperCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_10/MathMinMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_11/StringValueOfOrIntegerToStringMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_12/ReplaceParseIntTypeCastingChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_2/IsToUpperLowerCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_3/IndexOfSubStringMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_3/SplitIntegerMinValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_4/CharArrayValueOfMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_4/StringBuilderReverseToStringMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_6/IndexOfMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_7/StringBuilderEqualsIgnoreCaseMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_7/UpperCaseLengthMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_8/ReplaceAllStringBuilderMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_9/CharIntegerASCIIMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/string/_9/IsDigitParseIntMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_2/array/_1/ArrayListForEachPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2/array/_1/ArrayListForEachPoint.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +70,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.ArrayListForEachPoint">
+  <component name="RunManager" selected="Application.NotMaxValueAccumulate">
     <configuration name="ArrayListForEachPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array._1.ArrayListForEachPoint" />
       <module name="coding-test" />
@@ -74,6 +90,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotMaxValueAccumulate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2.array._2.NotMaxValueAccumulate" />
+      <module name="coding-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_2.array._2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,26 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToCharArrayToUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.ToCharArrayToUpperCase" />
-      <module name="coding-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NotMaxValueAccumulate" />
         <item itemvalue="Application.ArrayListForEachPoint" />
         <item itemvalue="Application.ReplaceParseIntTypeCastingChar" />
         <item itemvalue="Application.SplitIntegerMinValue" />
         <item itemvalue="Application.IsToUpperLowerCase" />
-        <item itemvalue="Application.ToCharArrayToUpperCase" />
       </list>
     </recent_temporary>
   </component>

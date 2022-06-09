@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * 1th, 큰 수 출력하기(ArrayListForEachPoint)
+ * 1th, 큰 수 출력하기()
  *
  * 1. 설명
  *  첫 번째 입력값을 자연수 N개가 주어지고
