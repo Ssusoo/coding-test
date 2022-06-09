@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/string/_12/ReplaceParseIntChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/_1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,13 +53,26 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.ReplaceParseIntTypeCastingChar">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="IsToUpperLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._2.IsToUpperLowerCase" />
+      <option name="MAIN_CLASS_NAME" value="string.IsToUpperLowerCase" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string._2.*" />
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array._1.Main" />
+      <module name="coding-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array._1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,11 +81,11 @@
       </method>
     </configuration>
     <configuration name="ReplaceParseIntTypeCastingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._12.ReplaceParseIntTypeCastingChar" />
+      <option name="MAIN_CLASS_NAME" value="string.ReplaceParseIntTypeCastingChar" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string._12.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,24 +94,11 @@
       </method>
     </configuration>
     <configuration name="SplitIntegerMinValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._3.SplitIntegerMinValue" />
+      <option name="MAIN_CLASS_NAME" value="string.SplitIntegerMinValue" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string._3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringValueOfOrIntegerToStringMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._11.StringValueOfOrIntegerToStringMain" />
-      <module name="coding-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string._11.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
       </method>
     </configuration>
     <configuration name="ToCharArrayToUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._1.ToCharArrayToUpperCase" />
+      <option name="MAIN_CLASS_NAME" value="string.ToCharArrayToUpperCase" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string._1.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ReplaceParseIntTypeCastingChar" />
         <item itemvalue="Application.SplitIntegerMinValue" />
         <item itemvalue="Application.IsToUpperLowerCase" />
         <item itemvalue="Application.ToCharArrayToUpperCase" />
-        <item itemvalue="Application.StringValueOfOrIntegerToStringMain" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +169,7 @@
       <workItem from="1654683492453" duration="6269000" />
       <workItem from="1654737678786" duration="12000" />
       <workItem from="1654770472157" duration="328000" />
-      <workItem from="1654771086270" duration="4319000" />
+      <workItem from="1654771086270" duration="4973000" />
     </task>
     <servers />
   </component>
