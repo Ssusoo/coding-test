@@ -35,6 +35,19 @@ import java.util.Scanner;
  *      -> 리턴 값을 누적시키기
  *      -> 나머지는 else를 통해 B가 이기게 한다.
  */
+
+/**
+ *  1. 해결방법
+ *      1-1) 리턴 타입은 type 정하기
+ *      1-2) For문으로 데이터 출력 조회
+ *      1-3) 데이터 출력 하기
+ *      1-4) A와 B가 비길 경우
+ *      1-5) 가위로 A가 이길 경우
+ * 		1-6) 바위로 A가 이길 경우
+ * 		1-7) 보로 A가 이길 경우
+ * 	    1-8) B가 이길 경우
+ *
+ */
 public class IfElseIfElse {
 	public static void main(String[] args) {
 		Scanner kb = new Scanner(System.in);
@@ -51,7 +64,9 @@ public class IfElseIfElse {
 		}
 
 		IfElseIfElse main = new IfElseIfElse();
-		System.out.println(main.solution(n, arrA, arrB));
+
+		// String으로 받아 하나의 배열 형태로 출력
+		for (char x : main.solution(n, arrA, arrB).toCharArray()) System.out.println(x);
 	}
 
 	private String solution(int n, int[] arrA, int[] arrB) {
