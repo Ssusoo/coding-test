@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/_2/array/_3/IfElseIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2/array/_3/IfElseIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2/array/_4/ReturnIntArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/_2/array/_3/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +54,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.IfElseIfElse">
+  <component name="RunManager" selected="Application.ReturnIntArray">
     <configuration name="ArrayListForEachPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array._1.ArrayListForEachPoint" />
       <module name="coding-test" />
@@ -105,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplitIntegerMinValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.SplitIntegerMinValue" />
+    <configuration name="ReturnIntArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2.array._4.ReturnIntArray" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="_2.array._4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReturnIntArray" />
         <item itemvalue="Application.IfElseIfElse" />
         <item itemvalue="Application.NotMaxValueAccumulate" />
         <item itemvalue="Application.ArrayListForEachPoint" />
         <item itemvalue="Application.ReplaceParseIntTypeCastingChar" />
-        <item itemvalue="Application.SplitIntegerMinValue" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +172,7 @@
       <workItem from="1654770472157" duration="328000" />
       <workItem from="1654771086270" duration="5150000" />
       <workItem from="1654828824682" duration="95000" />
-      <workItem from="1654853551171" duration="3751000" />
+      <workItem from="1654853551171" duration="5716000" />
     </task>
     <servers />
   </component>
