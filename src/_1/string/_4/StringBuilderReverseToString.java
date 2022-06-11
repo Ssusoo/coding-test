@@ -33,7 +33,7 @@ import java.util.Scanner;
  *              * String을 사용하는 게 아니라 StringBuilder를 통해 객체를 한 번만 만들어서 사용한다.
  *          6-3) 뒤집어진 String 문자를 리턴 ArrayList에 담기(add)
  */
-public class StringBuilderReverseToStringMain {
+public class StringBuilderReverseToString {
 	public static void main(String[] args) {
 		Scanner kb = new Scanner(System.in);
 
@@ -49,7 +49,7 @@ public class StringBuilderReverseToStringMain {
 		}
 
 		// 4) 객체 생성하기
-		StringBuilderReverseToStringMain main = new StringBuilderReverseToStringMain();
+		StringBuilderReverseToString main = new StringBuilderReverseToString();
 
 		// 5) 출력 로직 만들기
 		for (String x : main.solution(str)) {
