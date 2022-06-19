@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38a501fe-f663-4077-a3e0-10a295d58beb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_2/array/_6/IsPrimeWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2/array/_7/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_2/array/_6/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager" selected="Application.IsPrimeWhile">
     <configuration name="IfElseIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -177,6 +177,7 @@
       <workItem from="1655038312717" duration="3067000" />
       <workItem from="1655042469686" duration="29000" />
       <workItem from="1655389983198" duration="5241000" />
+      <workItem from="1655643692219" duration="650000" />
     </task>
     <servers />
   </component>
