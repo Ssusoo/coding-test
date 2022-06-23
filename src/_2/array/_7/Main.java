@@ -18,11 +18,16 @@ import java.util.Scanner;
  *
  * 3. 출력설명
  *  첫 번째 줄에 입력에서 주어진 채점 결과에 대해 가산점을 고려한 총 점수를 출력한다.
- *  
+ *
+ * 4. 입력예제 10, 1 0 1 1 1 0 0 1 1 0          출력예제 10
+ *
  */
 public class Main {
 
 	public static void main(String[] args) {
 		Scanner kb = new Scanner(System.in);
+
+		int n = kb.nextInt();
+		int[]
 	}
 }
