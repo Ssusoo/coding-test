@@ -49,8 +49,9 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.PrimeNumberSieve">
+  <component name="RunManager" selected="Application.IsPrimeWhile">
     <configuration name="IfElseIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_2.array._3.IfElseIfElse" />
       <module name="coding-test" />
@@ -64,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1.string._5.Main" />
+    <configuration name="IsPrimeWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2.array._6.IsPrimeWhile" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_1.string._5.*" />
+          <option name="PATTERN" value="_2.array._6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotMaxValueAccumulate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_2.array._2.NotMaxValueAccumulate" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1.string._5.Main" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_2.array._2.*" />
+          <option name="PATTERN" value="_1.string._5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsPrimeWhile" />
         <item itemvalue="Application.PrimeNumberSieve" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ReturnIntArray" />
         <item itemvalue="Application.IfElseIfElse" />
-        <item itemvalue="Application.NotMaxValueAccumulate" />
       </list>
     </recent_temporary>
   </component>
@@ -171,9 +172,20 @@
       <workItem from="1654853551171" duration="8594000" />
       <workItem from="1654956811994" duration="480000" />
       <workItem from="1655038312717" duration="3067000" />
+<<<<<<< HEAD
       <workItem from="1655115493093" duration="1321000" />
       <workItem from="1655116942880" duration="34000" />
       <workItem from="1655379413726" duration="687000" />
+=======
+      <workItem from="1655042469686" duration="29000" />
+      <workItem from="1655389983198" duration="5241000" />
+      <workItem from="1655643692219" duration="650000" />
+      <workItem from="1655645487477" duration="481000" />
+      <workItem from="1655725112501" duration="1000" />
+      <workItem from="1655734404560" duration="1535000" />
+      <workItem from="1655822947682" duration="948000" />
+      <workItem from="1655908989587" duration="139000" />
+>>>>>>> c68b292b5a24b908f7cabdfb71601ce7a350914f
     </task>
     <servers />
   </component>
