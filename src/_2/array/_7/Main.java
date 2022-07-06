@@ -24,6 +24,16 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
+		Scanner kb = new Scanner(System.in);
 
+		String str = kb.next();
+
+		Main main = new Main();
+
+		System.out.println(main.solution(str));
+	}
+
+	private boolean solution(String str) {
+		return false;
 	}
 }
